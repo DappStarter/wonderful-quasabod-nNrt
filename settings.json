@@ -1,0 +1,16 @@
+{
+    "name": "KIN",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/vanilla": true,
+        "/category/access_control/core-administrator_role": true,
+        "/category/access_control/core-contract_access": true,
+        "/category/access_control/core-contract_runstate": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/name": "KIN",
+        "/category/asset_value_tracking/core-token/symbol": "KIN",
+        "/category/asset_value_tracking/core-token/decimals": "10",
+        "/category/asset_value_tracking/core-token/supply": "1000000"
+    }
+}
